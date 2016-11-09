@@ -1,0 +1,135 @@
+CS 344 – Web Project Plan  Discuss and answer the following questions about the website as a team. Written answers (first pass) to these questions are due on Friday. Final Project Plan document due on Monday.  
+1.	Purpose of Web Site
+a.	Who is the site for and what is the organization about?
+i.	For the WSU computer science department
+ii.	Providing quality education to the CS students
+iii.	Providing a key to the exciting and rewarding field of CS
+b.	What is the website supposed to do for this organization?
+i.	Create an intrigue for CS in potential students
+ii.	Offer helpful resources to current students
+iii.	Show off to donors, other Universities, and recruiters that the department offers a solid education. 
+iv.	Show off up-to-date web programming abilities
+c.	What should the website not be doing?
+i.	Showing that the CS department doesn’t know how to make a proper website
+ii.	Create confusing pathways for information
+2.	Design Goals for site 
+a.	What are your two or three most important design goals for the site? 
+i.	Lay out information for separate audiences in a clean, user-friendly format; Have an intuitive navigation system. 
+ii.	Be visually appealing without relying heavily on imagery (we don’t have much) or compromising the user experience. (visual hierarchy, concise but meaningful copy).
+iii.	Tell a story in a unique way that captures interest.
+iv.	Make the website easily maintainable. 
+b.	Explain what they mean in the context of your users.
+i.	Information and navigation means users will be able to easily access information and avoid frustration. We don’t want the department to be associate with a frustrating user experience.
+ii.	Telling a unique story is for prospective students. We want to be different than a typical stale University website. We also have opportunity here to showcase some unique CS features that would present CS at WSU as fun and cool. 
+c.	Explain why they are important.
+i.	I think the main goal is to provide useful information in a clean way that’s easy to find and digest. People want to find what they’re looking for easily on a university website and they don’t want it to be off-putting (too stuffy or old looking).
+3.	Audiences, and functionality for each 
+a.	Who are the different audiences for the Web site?  Who is the primary audience?
+i.	Primary: Prospective students (current students hardly ever go to their department pages, unless they’re encouraged to)
+ii.	Parents of prospective students
+iii.	Current students (need to make the information actually useful though) They may go there just for office hours or accessing professors’ sites When they do this, we could showcase the other resources available on our site 
+iv.	Donors, recruiters, etc.
+b.	What differentiates each group?
+i.	What they’re all looking for is different
+1.	Prospective students (both looking for CS, or just WSU)
+a.	Courses vs other schools?
+i.	And what those courses mean, not just a list 
+b.	Why CS is a good major. 
+i.	If WSU is proficient
+c.	Rewarding field, good job placement. 
+2.	Parents
+a.	Is their child going to receive a worthwhile education?
+b.	Are they going to get a good job?
+3.	Current Students
+a.	Office hours, staff sites, projects
+4.	Donors, recruiters, etc
+a.	What are the courses like.
+b.	Do students go on to do great things?
+c.	What functionality will be provided for each audience? (What do you want the members of the different audiences to understand or know after having visited the site?) 
+i.	For current students, there needs to be a direct way to access the resources quickly. Information should be presented in a straightforward manner without fluff.
+ii.	For prospective students, content will tell more of a story. 
+1.	Show off projects to create intrigue. 
+iii.	Parents and prospective students: Some way to quantify the success of the program for students.
+4.	Development Environment and Initial Implementation Ideas
+a.	What are your initial ideas for implementing this site – number of html pages; front-end scripting; back end databases and server scripting languages; etc.
+i.	5-8 Pages
+ii.	Database: Staff information
+iii.	Server-side scripting using PHP
+1.	For queries and for updatable staff page
+2.	Password-protected admin page for updating
+iv.	JQuery
+1.	Animated UI elements (ex: nav)
+b.	What development tools are you planning to use?
+i.	Brackets, Notepad++, Bootstrap
+c.	Will your site be accessible? If so, how will you ensure this? If not, why not?
+i.	Yes. Make sure all images have alt text. Avoid any color combinations difficult for people with color blindness.
+5.	Timeline
+a.	Short-term: what do you plan to get accomplished in the next 2 weeks
+Give specific list and name the person on the team responsible for each item.
+i.	Paul
+1.	Prototype of extra features (staff page)
+ii.	Sean
+1.	Homepage
+2.	Look into parallax scrolling
+iii.	Zach
+1.	Website concept
+2.	Basic framework and styling
+b.	Long-term: what is your weekly schedule for the rest of the semester, including final presentations on Dec. 4th.  Include team meetings, prototype designs and code, and testing.  Include parallel efforts to study different technology solutions.
+i.	Meet at least Wednesdays after class each week, and Mondays if necessary. 
+ii.	Prototypes
+1.	Basic updatable staff page form – 10th
+2.	Updated homepage – 14th
+3.	Full prototype – 28th 
+iii.	Code testing and review – each Friday
+iv.	Technology solutions
+1.	Zach: Look into Bootstrap by Milestone 1
+2.	Sean: UI components by Milestone 1
+3.	Paul: Database tech by Milestone 1
+
+c.	Potential Problems: list potential problems with your project timeline and discuss how these will be addressed.
+i.	Major design revisions
+1.	Have a prototype of overall look, feel, and UI set by mid-project 
+ii.	Responsive design not working
+iii.	Not enough content for predetermined pages
+1.	Determine how to combine content into one page
+6.	Project Management
+a.	Who is doing which Project Management jobs for your team?
+i.	Zach
+1.	User
+ii.	Sean
+1.	Meeting Facilitator
+2.	Timeline Taskmaster
+iii.	Paul
+1.	Code repository coordinator
+7.	Open Questions
+a.	What are things you need to research?
+i.	Responsive design framework
+ii.	Animations tied to scroll
+iii.	Parallax scrolling
+b.	What are things you need to write test-code for?
+i.	The navigation
+ii.	Parallax scroll
+iii.	Ensure responsive is working
+iv.	Database queries
+c.	What are things you need to find out from your client?
+i.	The story of the CS department.
+1.	Dr. C, history document
+ii.	The mission of the CS department.
+1.	Mission statement to be received
+iii.	What they want prospective students to know?
+1.	Small class sizes, personalized experience, internship program, software testing lab, research opportunities 
+iv.	Do you get questions from parents of prospective students?
+1.	If so, what are those questions?
+v.	What do you think is missing from the site now?
+1.	Up to date information, maintainability, information that is useful to current students
+vi.	What could be improved?
+1.	Maintenance of the website is extremely lacking. Outdated information should expire and a placeholder ought to take it’s place. 
+vii.	What do you really dislike on the current website?
+1.	The fact that it’s not maintainable.
+viii.	What should stay that’s on our website?
+1.	A separation between current and prospective students, however all information is stale/outdated. 
+ix.	What kind of questions do students ask that could be answered by our new website?
+1.	Professor schedule information: office hours, class schedule
+x.	Who would be entering staff hours to update on the website?
+1.	Professors would be entering their own class schedule, office hours, etc. 
+	

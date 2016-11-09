@@ -1,0 +1,74 @@
+1.	Scrolling Home Page (prospective students)–Parallax Sections
+a.	Full-width Video/Picture with logo overlay
+i.	Anchor nav and link to current students info
+ii.	Maybe tagline or mission statement as well
+b.	Great Education and Personalized Attention
+i.	Top-notch education in the state
+1.	Stats? Ask Debnath
+ii.	Small classrooms for personalized attention
+1.	Professors fight to maintain this
+iii.	Professors who are always open to help and challenge students
+c.	Small with many opportunities
+i.	Software testing lab
+ii.	Research Opportunities
+iii.	Ties to industry
+d.	Course meaning breakdown
+i.	Explain choices and program options
+ii.	Key coursework and significance
+1.	*Be careful with this. General enough so it 
+iii.	What you’ll be learning (more than just programming)
+e.	Hands-on project focused
+i.	You’re not always stuck in a book
+1.	We make sure you can get your hands into real projects
+ii.	Team-based work to get to know your classmates
+1.	And build team skills
+2.	Not as common at larger universities
+f.	Stepping stone into the industry
+i.	Employers are impressed with our preparedness (Quotes? - Debath or Dr. C?)
+ii.	Internship programs with ties to the field
+iii.	Prepared from the concepts learned as well as the teamwork experience
+iv.	Alumni quotes (Sue or Mary)
+g.	Call to Action
+i.	Check out courses (link to catalog)
+ii.	Schedule visit (link)
+iii.	Contact department (Chair contact info?)
+iv.	Apply today (link)
+h.	General Notes
+i.	Link to relevant pages to back up claims
+1.	Research opportunities/prpjects
+2.	Intern Program
+a.	Careful, if it’s empty, it won’t look good)
+3.	Software Lab
+4.	Catalog
+2.	Current Students
+a.	Landing Page
+i.	Current news
+ii.	CS club link
+iii.	Links clearly marked with easy navigation
+b.	Staff
+i.	Office hours, staff site, email, pictures, info, etc.
+ii.	Link to each staff’s site
+iii.	Set info to expire (office hours)
+c.	Projects and Research
+i.	Brief info on how to get involved with research or projects
+ii.	Spotlight for student projects
+1.	Set to expire after certain amount of time
+2.	Maybe have section of certain ones that can stay. The “headliners”
+d.	Tutoring
+i.	Similar to staff page (same template and scripting transferred over?)
+e.	Software lab
+i.	Enough info for its own page
+ii.	I don’t know much about this. Any help?
+f.	Jobs/Grad Prep
+i.	Think of alternate names (Professional Resources/Development)
+ii.	Where to look for jobs
+iii.	Internships and job posting
+iv.	Quotes and success stories
+v.	Tips for graduation/job searching
+3.	Questions to Answer
+a.	For landing page navigation, should we have
+i.	Anchor nav and current students button, or
+ii.	Anchor nav with main nav (all current student pages)
+1.	Students may want to jump to certain page vs 2 clicks to get there
+2.	However, they’d jump over the current students landing page and miss the news feed updates
+iii.	We may have to make some mockups and see what we think/weigh pros and cons
